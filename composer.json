@@ -1,0 +1,26 @@
+{
+  "name": "DevTareq/process-saga-sec",
+  "type": "library",
+  "description": "Saga Pattern PHP Application processes",
+  "keywords": [
+    "Saga",
+    "OOP",
+    "Design Patterns",
+    "PHP"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Tareq Albajjaly",
+      "email": "dev.tareq@gmail.cm",
+      "role": "Coding Bot."
+    }
+  ],
+  "minimum-stability": "stable",
+  "autoload": {
+    "psr-4": {
+      "ProcessSagaSEC\\": "src/"
+    }
+  },
+  "require": {}
+}
